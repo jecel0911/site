@@ -6,6 +6,7 @@
   "dependencies": {
     "bootstrap": "^3.3.2",
     "gaboesquivel": "^1.0.2",
+    "jeremiasceciliano": "^1.0.0",
     "laubits": "^1.0.0",
     "lodash": "^4.17.2"
   },
